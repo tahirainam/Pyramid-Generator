@@ -1,4 +1,4 @@
-# JavaScript Mini Project: Pyramid Pattern Generator
+# JavaScript Mini Project #01: Pyramid Pattern Generator
 
 This project demonstrates various JavaScript concepts and methods by generating a text-based pyramid pattern. 
 
